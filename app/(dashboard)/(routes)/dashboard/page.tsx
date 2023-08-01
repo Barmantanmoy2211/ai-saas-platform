@@ -12,7 +12,7 @@ const tools = [
     icon: MessageSquare,
     color : "text-violet-500",
     bgColor: "bg-violet-500/10",
-    href: "/conversion"
+    href: "/conversation"
   },
   {
     label: "Music Generation",
